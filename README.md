@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Maira Jiménez</h1>
-<h3 align="center">Egresada de la carrera Ingeniería en Sistemas Computacionales</h3>
+<h3 align="center">Ingeniería en Sistemas Computacionales</h3>
 
 - 🔭 Recientemente concluí el desarrollo de mi proyecto de titulación [Punto de Venta con Conexión a un Programa de Lealtad bajo la distribución SaaS](https://github.com/maaira3/Punto-de-Venta-)
 
